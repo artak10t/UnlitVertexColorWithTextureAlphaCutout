@@ -1,5 +1,5 @@
 # UnlitVertexColorWithTextureAlphaCutout
-Unlit vertex color with texture alpha cutout shader for unity.
+Unlit vertex color with texture alpha cutout shader for unity. Used for my Voxel game project.
 
 ## :clipboard: Meta
 
